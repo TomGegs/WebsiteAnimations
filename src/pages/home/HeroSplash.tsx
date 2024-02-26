@@ -9,7 +9,6 @@ const HeroSplash = () => {
             </header>
 
             <HeroParallax products={heroImages} />
-            <div className="h-20 w-full bg-black text-white">Hello</div>
         </section>
     );
 };

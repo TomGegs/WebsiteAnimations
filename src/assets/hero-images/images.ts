@@ -45,4 +45,40 @@ export const heroImages = [
         title: 'Receiving Clothing Donation',
         thumbnail: clothingDonation2,
     },
+    {
+        title: 'Mother & Daughter',
+        thumbnail: motherDaughterImage1,
+    },
+    {
+        title: 'Mother & Daughter',
+        thumbnail: motherDaughterImage2,
+    },
+    {
+        title: 'Local Business Owner',
+        thumbnail: busienssOwner,
+    },
+    {
+        title: 'Local Business Owner',
+        thumbnail: busienssOwner2,
+    },
+    {
+        title: 'Joyful Teenager',
+        thumbnail: happyGirl,
+    },
+    {
+        title: 'Joyful Teenager',
+        thumbnail: boyWithFavouriteToyBear,
+    },
+    {
+        title: 'Receiving Aid',
+        thumbnail: womanReceivingAid,
+    },
+    {
+        title: 'Receiving Clothing Donation',
+        thumbnail: clothingDonation,
+    },
+    {
+        title: 'Receiving Clothing Donation',
+        thumbnail: clothingDonation2,
+    },
 ];
