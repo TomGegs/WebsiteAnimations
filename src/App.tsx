@@ -1,10 +1,11 @@
-import { Route, Routes } from 'react-router-dom';
-import { HomePage } from './pages/home/HomePage';
+import { heroImages } from './assets/hero-images/images';
+import { NewParallax } from './components/paralax-scroll';
+
 function App() {
     return (
-        <Routes>
-            <Route path="/" index element={<HomePage />} />
-        </Routes>
+        <section className="h-[150dvh] w-full bg-primary lg:h-[200dvh]">
+            <NewParallax products={heroImages} />
+        </section>
     );
 }
 

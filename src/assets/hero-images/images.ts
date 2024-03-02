@@ -6,79 +6,58 @@ import happyGirl from './image_of_a_moment_of_pure_joy_receiving_fresh_water_2.w
 import boyWithFavouriteToyBear from './joyful_teenager_holding_favourite_toy.webp';
 import womanReceivingAid from './photo_poignantly_capturing_a_woman_receiving_aid_after_disaster_2.webp';
 import clothingDonation from './warming_photo_captures_boy_receiving_clothing_donation.webp';
-import clothingDonation2 from './warming_photo_captures_boy_receiving_clothing_donation_3.webp';
+// import clothingDonation2 from './warming_photo_captures_boy_receiving_clothing_donation_3.webp';
+import HeroBackdrop from './HeroBackdrop.png';
+import earth1 from './38.png';
+import earth2 from './39.png';
+import earth3 from './40.png';
+import WholeEarth from './EarthWHole.png';
+import EarthLogo from './EarthLogo.png';
+import BlueCircle from './BlueCircle.png';
+
+export const heroImage1 = HeroBackdrop;
+export const heroImage2 = HeroBackdrop;
+
+export const Earth1 = earth1;
+export const Earth2 = earth2;
+export const Earth3 = earth3;
+export const EarthLogoImage = EarthLogo;
+
+export const Earth = WholeEarth;
+
+export const BlueCircleImage = BlueCircle;
 
 export const heroImages = [
     {
-        title: 'Mother & Daughter',
+        title: 'MotherDaughter',
         thumbnail: motherDaughterImage1,
     },
     {
-        title: 'Mother & Daughter',
-        thumbnail: motherDaughterImage2,
-    },
-    {
-        title: 'Local Business Owner',
+        title: 'Business Owner',
         thumbnail: busienssOwner,
     },
     {
-        title: 'Local Business Owner',
-        thumbnail: busienssOwner2,
-    },
-    {
-        title: 'Joyful Teenager',
+        title: 'happyGirl',
         thumbnail: happyGirl,
     },
     {
-        title: 'Joyful Teenager',
+        title: 'busienssOwner',
+        thumbnail: busienssOwner2,
+    },
+    {
+        title: 'boyWithFavouriteToyBear',
         thumbnail: boyWithFavouriteToyBear,
     },
     {
-        title: 'Receiving Aid',
+        title: 'womanReceivingAid',
         thumbnail: womanReceivingAid,
     },
     {
-        title: 'Receiving Clothing Donation',
-        thumbnail: clothingDonation,
-    },
-    {
-        title: 'Receiving Clothing Donation',
-        thumbnail: clothingDonation2,
-    },
-    {
-        title: 'Mother & Daughter',
-        thumbnail: motherDaughterImage1,
-    },
-    {
-        title: 'Mother & Daughter',
+        title: 'MotherDaughter2',
         thumbnail: motherDaughterImage2,
     },
     {
-        title: 'Local Business Owner',
-        thumbnail: busienssOwner,
-    },
-    {
-        title: 'Local Business Owner',
-        thumbnail: busienssOwner2,
-    },
-    {
-        title: 'Joyful Teenager',
-        thumbnail: happyGirl,
-    },
-    {
-        title: 'Joyful Teenager',
-        thumbnail: boyWithFavouriteToyBear,
-    },
-    {
-        title: 'Receiving Aid',
-        thumbnail: womanReceivingAid,
-    },
-    {
-        title: 'Receiving Clothing Donation',
+        title: 'clothingDonation',
         thumbnail: clothingDonation,
-    },
-    {
-        title: 'Receiving Clothing Donation',
-        thumbnail: clothingDonation2,
     },
 ];
